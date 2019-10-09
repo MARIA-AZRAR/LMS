@@ -556,7 +556,7 @@ void updateStudent(string stdNamesList[], string stdRegNoList[], string studentN
 						stdRegNoList[i]=roll_no[j];
 						studentName[i]=name[j];
 						
-						cout<<endl<<" Course has been edited successfully."<<endl<<endl;
+						cout<<endl<<" Course has been edited successfully."<<endl<<endl<<endl;
 						flag=true;
 						
 					}
